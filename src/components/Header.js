@@ -4,7 +4,7 @@ export default function Header() {
     return (
         <header>
             <div>
-                <del className={"logo"}>PEACEMINUSONE</del>
+                <del className={"logo"}><a href="/">PEACEMINUSONE</a></del>
                 <span className={"box"}>
                     <a href={"#"} className={"menu-el"}> SHOP</a>
                     <a href={"#"} className={"menu-el"}> ARCHIVE</a>
