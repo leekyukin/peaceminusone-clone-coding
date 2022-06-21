@@ -6,7 +6,7 @@ export default function Header() {
             <div>
                 <del className={"logo"}><a href="/">PEACEMINUSONE</a></del>
                 <span className={"box"}>
-                    <a href={"#"} className={"menu-el"}> SHOP</a>
+                    <a href={"/shop"} className={"menu-el"}> SHOP</a>
                     <a href={"#"} className={"menu-el"}> ARCHIVE</a>
                     <a href={"#"} className={"menu-el"}> EXHIBITION</a>
                     <a href={"#"} className={"menu-el"}> NOTICE</a>
