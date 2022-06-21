@@ -10,7 +10,6 @@
 
 .App {
     height: 100%;
-    display: inline-block;
 }
 
 a {
@@ -26,21 +25,18 @@ a:hover {
 
 header, footer {
     display: flex;
-    /*justify-content: space-between;*/
+    justify-content: space-between;
     height: 33px;
-    /*align-items: center;*/
+    align-items: center;
 }
 
 header {
-    align-items: flex-start;
     padding: 10px;
     border-bottom: 1px solid #7777;
 }
 
 footer {
-    align-items: flex-end;
     padding-bottom: 0;
-    position: inherit;
     border-top: 1px solid #7777;
 }
 
