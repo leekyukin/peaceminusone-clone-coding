@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/peaceminusone-clone-coding/static/css/main.b4352e9b.css",
+    "main.js": "/peaceminusone-clone-coding/static/js/main.b1b2a8f6.js",
+    "static/media/background.png": "/peaceminusone-clone-coding/static/media/background.0bdef8eb29ddf107a95f.png",
+    "index.html": "/peaceminusone-clone-coding/index.html",
+    "main.b4352e9b.css.map": "/peaceminusone-clone-coding/static/css/main.b4352e9b.css.map",
+    "main.b1b2a8f6.js.map": "/peaceminusone-clone-coding/static/js/main.b1b2a8f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4352e9b.css",
+    "static/js/main.b1b2a8f6.js"
+  ]
+}
