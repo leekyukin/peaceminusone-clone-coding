@@ -10,6 +10,7 @@ export default function Header() {
                     <a href={"#"} className={"menu-el"}> ARCHIVE</a>
                     <a href={"#"} className={"menu-el"}> EXHIBITION</a>
                     <a href={"#"} className={"menu-el"}> NOTICE</a>
+                    <a href={"twitch"}>TWITCH</a>
                 </span>
             </div>
             <div></div>
